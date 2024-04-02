@@ -31,14 +31,14 @@ window.function = function (data, width, height) {
   
           const data = {
             labels: [
-              'Spirit & Higher Self',
-              'Home & Family',
-              'Inner & Outer Self',
-              'Wealth, Work & Study',
-              'Nature & Environment',
-              'Community',
-              'World',
-              'Beliefs & Practices'
+              'a',
+              'b',
+              'c',
+              'd',
+              'e',
+              'f',
+              'g',
+              'h'
             ],
             datasets: [
               {
@@ -95,7 +95,7 @@ window.function = function (data, width, height) {
               },
               title: {
                 display: true,
-                text: 'The Ayo Index - Self Assessment',
+                text: 'test chart',
                 color: textColor,
                 font: {
                   size: 24,
